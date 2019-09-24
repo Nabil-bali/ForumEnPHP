@@ -1,0 +1,1 @@
+<p>Nous sommes bien sur la page sécurisée par les fichiers .htaccess et .htpasswd</p>

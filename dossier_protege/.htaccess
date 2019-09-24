@@ -1,0 +1,4 @@
+AuthName "Page d'administration protégée"
+AuthType Basic
+AuthUserFile "C:\wamp64\www\applications\forum/dossier_protege/.htpasswd"
+Require valid-user
